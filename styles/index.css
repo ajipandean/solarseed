@@ -22,3 +22,26 @@
   margin-bottom: 16px;
   line-height: 28px;
 }
+
+.join {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding: 40px 24px;
+}
+.join h3 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+.join p {
+  line-height: 28px;
+  margin-bottom: 32px;
+}
+.join a {
+  text-decoration: none;
+  color: white;
+  background-color: #E05A00;
+  padding: 12px 32px;
+  border-radius: 10px;
+}
